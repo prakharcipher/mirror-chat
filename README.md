@@ -12,6 +12,11 @@ A simple chat app to echo user's chat message
 
 4) npm start
 
+Please Use :
+
+Username = Prakhar
+Password = 12345678
+
 Please note - The App is made over create-react-app package and runs on port 3000
 
 Use Node Version 10.13.0 or above
